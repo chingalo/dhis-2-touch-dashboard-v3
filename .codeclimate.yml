@@ -1,0 +1,9 @@
+version: '2'
+exclude_patterns:
+  - 'src/app/**/*.spec.ts'
+  - 'plugins'
+  - 'platforms'
+  - 'e2e'
+  - 'www'
+  - 'config'
+  - 'docs'
