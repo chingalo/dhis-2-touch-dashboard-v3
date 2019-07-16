@@ -1,5 +1,7 @@
 {
   "name": "dhis-2-touch-dashboard",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
